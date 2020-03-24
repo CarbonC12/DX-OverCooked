@@ -1,0 +1,16 @@
+﻿  gameTimer.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+Effects11.lib(d3dx11dbg.obj) : warning LNK4006: "void * __cdecl operator new(unsigned int,class CDataBlockStore &)" (??2@YAPAXIAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(d3dx11dbg.obj) : warning LNK4006: "void __cdecl operator delete(void *,class CDataBlockStore &)" (??3@YAXPAXAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(d3dxGlobal.obj) : warning LNK4006: "void * __cdecl operator new(unsigned int,class CDataBlockStore &)" (??2@YAPAXIAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(d3dxGlobal.obj) : warning LNK4006: "void __cdecl operator delete(void *,class CDataBlockStore &)" (??3@YAXPAXAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectNonRuntime.obj) : warning LNK4006: "void * __cdecl operator new(unsigned int,class CDataBlockStore &)" (??2@YAPAXIAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectNonRuntime.obj) : warning LNK4006: "void __cdecl operator delete(void *,class CDataBlockStore &)" (??3@YAXPAXAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectLoad.obj) : warning LNK4006: "void * __cdecl operator new(unsigned int,class CDataBlockStore &)" (??2@YAPAXIAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectLoad.obj) : warning LNK4006: "void __cdecl operator delete(void *,class CDataBlockStore &)" (??3@YAXPAXAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectReflection.obj) : warning LNK4006: "void * __cdecl operator new(unsigned int,class CDataBlockStore &)" (??2@YAPAXIAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectReflection.obj) : warning LNK4006: "void __cdecl operator delete(void *,class CDataBlockStore &)" (??3@YAXPAXAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectRuntime.obj) : warning LNK4006: "void * __cdecl operator new(unsigned int,class CDataBlockStore &)" (??2@YAPAXIAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+Effects11.lib(EffectRuntime.obj) : warning LNK4006: "void __cdecl operator delete(void *,class CDataBlockStore &)" (??3@YAXPAXAAVCDataBlockStore@@@Z) 已在 Effects11.lib(EffectAPI.obj) 中定义；已忽略第二个定义
+D:\DX_Project\DX_FinalWork\Debug\DX_FinalWork.exe : warning LNK4088: 因 /FORCE 选项生成了映像；映像可能不能运行
+  DX_FinalWork.vcxproj -> D:\DX_Project\DX_FinalWork\Debug\DX_FinalWork.exe
